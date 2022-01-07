@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **my abilities**
 
-- 📫 How to reach me in <a href="mailto:gustavoleterio@gmail.com" target="_blank">**my email**</a>
-
 - ⚡ Fun fact **I'm in the 3nd semester of the systems analysis and development course**
 
 <h3 align="left">Connect with me:</h3>
